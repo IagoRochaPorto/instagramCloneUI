@@ -9,6 +9,7 @@ Make Sure your React Native environment is okay, [React Native Docs](https://fac
 
 run yarn or npm install to install the project depedencies
 
+make sure you're running an emulator or you have a device connected
 ## For Android
 
 run #react-native run-android
@@ -16,7 +17,3 @@ run #react-native run-android
 ## For ios
 
 run #react-native run-ios
-
-===
-
-make sure you're running an emulator or you have a device connected
